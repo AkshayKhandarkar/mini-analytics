@@ -1,0 +1,902 @@
+[
+  {
+    "date": "2025-08-08",
+    "salesperson": "Alice",
+    "revenue": 997
+  },
+  {
+    "date": "2025-08-08",
+    "salesperson": "Bob",
+    "revenue": 1138
+  },
+  {
+    "date": "2025-08-08",
+    "salesperson": "Charlie",
+    "revenue": 915
+  },
+  {
+    "date": "2025-08-09",
+    "salesperson": "Alice",
+    "revenue": 1058
+  },
+  {
+    "date": "2025-08-09",
+    "salesperson": "Bob",
+    "revenue": 967
+  },
+  {
+    "date": "2025-08-09",
+    "salesperson": "Charlie",
+    "revenue": 865
+  },
+  {
+    "date": "2025-08-10",
+    "salesperson": "Alice",
+    "revenue": 931
+  },
+  {
+    "date": "2025-08-10",
+    "salesperson": "Bob",
+    "revenue": 1028
+  },
+  {
+    "date": "2025-08-10",
+    "salesperson": "Charlie",
+    "revenue": 791
+  },
+  {
+    "date": "2025-08-11",
+    "salesperson": "Alice",
+    "revenue": 1146
+  },
+  {
+    "date": "2025-08-11",
+    "salesperson": "Bob",
+    "revenue": 908
+  },
+  {
+    "date": "2025-08-11",
+    "salesperson": "Charlie",
+    "revenue": 1002
+  },
+  {
+    "date": "2025-08-12",
+    "salesperson": "Alice",
+    "revenue": 890
+  },
+  {
+    "date": "2025-08-12",
+    "salesperson": "Bob",
+    "revenue": 1163
+  },
+  {
+    "date": "2025-08-12",
+    "salesperson": "Charlie",
+    "revenue": 777
+  },
+  {
+    "date": "2025-08-13",
+    "salesperson": "Alice",
+    "revenue": 1136
+  },
+  {
+    "date": "2025-08-13",
+    "salesperson": "Bob",
+    "revenue": 851
+  },
+  {
+    "date": "2025-08-13",
+    "salesperson": "Charlie",
+    "revenue": 931
+  },
+  {
+    "date": "2025-08-14",
+    "salesperson": "Alice",
+    "revenue": 1187
+  },
+  {
+    "date": "2025-08-14",
+    "salesperson": "Bob",
+    "revenue": 914
+  },
+  {
+    "date": "2025-08-14",
+    "salesperson": "Charlie",
+    "revenue": 1042
+  },
+  {
+    "date": "2025-08-15",
+    "salesperson": "Alice",
+    "revenue": 1003
+  },
+  {
+    "date": "2025-08-15",
+    "salesperson": "Bob",
+    "revenue": 851
+  },
+  {
+    "date": "2025-08-15",
+    "salesperson": "Charlie",
+    "revenue": 1050
+  },
+  {
+    "date": "2025-08-16",
+    "salesperson": "Alice",
+    "revenue": 1243
+  },
+  {
+    "date": "2025-08-16",
+    "salesperson": "Bob",
+    "revenue": 1172
+  },
+  {
+    "date": "2025-08-16",
+    "salesperson": "Charlie",
+    "revenue": 1100
+  },
+  {
+    "date": "2025-08-17",
+    "salesperson": "Alice",
+    "revenue": 1060
+  },
+  {
+    "date": "2025-08-17",
+    "salesperson": "Bob",
+    "revenue": 964
+  },
+  {
+    "date": "2025-08-17",
+    "salesperson": "Charlie",
+    "revenue": 1163
+  },
+  {
+    "date": "2025-08-18",
+    "salesperson": "Alice",
+    "revenue": 1190
+  },
+  {
+    "date": "2025-08-18",
+    "salesperson": "Bob",
+    "revenue": 963
+  },
+  {
+    "date": "2025-08-18",
+    "salesperson": "Charlie",
+    "revenue": 922
+  },
+  {
+    "date": "2025-08-19",
+    "salesperson": "Alice",
+    "revenue": 956
+  },
+  {
+    "date": "2025-08-19",
+    "salesperson": "Bob",
+    "revenue": 901
+  },
+  {
+    "date": "2025-08-19",
+    "salesperson": "Charlie",
+    "revenue": 973
+  },
+  {
+    "date": "2025-08-20",
+    "salesperson": "Alice",
+    "revenue": 1074
+  },
+  {
+    "date": "2025-08-20",
+    "salesperson": "Bob",
+    "revenue": 1152
+  },
+  {
+    "date": "2025-08-20",
+    "salesperson": "Charlie",
+    "revenue": 969
+  },
+  {
+    "date": "2025-08-21",
+    "salesperson": "Alice",
+    "revenue": 1206
+  },
+  {
+    "date": "2025-08-21",
+    "salesperson": "Bob",
+    "revenue": 984
+  },
+  {
+    "date": "2025-08-21",
+    "salesperson": "Charlie",
+    "revenue": 1138
+  },
+  {
+    "date": "2025-08-22",
+    "salesperson": "Alice",
+    "revenue": 1167
+  },
+  {
+    "date": "2025-08-22",
+    "salesperson": "Bob",
+    "revenue": 936
+  },
+  {
+    "date": "2025-08-22",
+    "salesperson": "Charlie",
+    "revenue": 1145
+  },
+  {
+    "date": "2025-08-23",
+    "salesperson": "Alice",
+    "revenue": 1073
+  },
+  {
+    "date": "2025-08-23",
+    "salesperson": "Bob",
+    "revenue": 1048
+  },
+  {
+    "date": "2025-08-23",
+    "salesperson": "Charlie",
+    "revenue": 944
+  },
+  {
+    "date": "2025-08-24",
+    "salesperson": "Alice",
+    "revenue": 1273
+  },
+  {
+    "date": "2025-08-24",
+    "salesperson": "Bob",
+    "revenue": 1246
+  },
+  {
+    "date": "2025-08-24",
+    "salesperson": "Charlie",
+    "revenue": 993
+  },
+  {
+    "date": "2025-08-25",
+    "salesperson": "Alice",
+    "revenue": 1317
+  },
+  {
+    "date": "2025-08-25",
+    "salesperson": "Bob",
+    "revenue": 1307
+  },
+  {
+    "date": "2025-08-25",
+    "salesperson": "Charlie",
+    "revenue": 936
+  },
+  {
+    "date": "2025-08-26",
+    "salesperson": "Alice",
+    "revenue": 1338
+  },
+  {
+    "date": "2025-08-26",
+    "salesperson": "Bob",
+    "revenue": 1206
+  },
+  {
+    "date": "2025-08-26",
+    "salesperson": "Charlie",
+    "revenue": 1229
+  },
+  {
+    "date": "2025-08-27",
+    "salesperson": "Alice",
+    "revenue": 1257
+  },
+  {
+    "date": "2025-08-27",
+    "salesperson": "Bob",
+    "revenue": 1060
+  },
+  {
+    "date": "2025-08-27",
+    "salesperson": "Charlie",
+    "revenue": 1000
+  },
+  {
+    "date": "2025-08-28",
+    "salesperson": "Alice",
+    "revenue": 1296
+  },
+  {
+    "date": "2025-08-28",
+    "salesperson": "Bob",
+    "revenue": 1090
+  },
+  {
+    "date": "2025-08-28",
+    "salesperson": "Charlie",
+    "revenue": 1130
+  },
+  {
+    "date": "2025-08-29",
+    "salesperson": "Alice",
+    "revenue": 1368
+  },
+  {
+    "date": "2025-08-29",
+    "salesperson": "Bob",
+    "revenue": 1142
+  },
+  {
+    "date": "2025-08-29",
+    "salesperson": "Charlie",
+    "revenue": 952
+  },
+  {
+    "date": "2025-08-30",
+    "salesperson": "Alice",
+    "revenue": 1269
+  },
+  {
+    "date": "2025-08-30",
+    "salesperson": "Bob",
+    "revenue": 1270
+  },
+  {
+    "date": "2025-08-30",
+    "salesperson": "Charlie",
+    "revenue": 1242
+  },
+  {
+    "date": "2025-08-31",
+    "salesperson": "Alice",
+    "revenue": 1038
+  },
+  {
+    "date": "2025-08-31",
+    "salesperson": "Bob",
+    "revenue": 1354
+  },
+  {
+    "date": "2025-08-31",
+    "salesperson": "Charlie",
+    "revenue": 1068
+  },
+  {
+    "date": "2025-09-01",
+    "salesperson": "Alice",
+    "revenue": 1127
+  },
+  {
+    "date": "2025-09-01",
+    "salesperson": "Bob",
+    "revenue": 1160
+  },
+  {
+    "date": "2025-09-01",
+    "salesperson": "Charlie",
+    "revenue": 1158
+  },
+  {
+    "date": "2025-09-02",
+    "salesperson": "Alice",
+    "revenue": 1407
+  },
+  {
+    "date": "2025-09-02",
+    "salesperson": "Bob",
+    "revenue": 1112
+  },
+  {
+    "date": "2025-09-02",
+    "salesperson": "Charlie",
+    "revenue": 973
+  },
+  {
+    "date": "2025-09-03",
+    "salesperson": "Alice",
+    "revenue": 1368
+  },
+  {
+    "date": "2025-09-03",
+    "salesperson": "Bob",
+    "revenue": 1358
+  },
+  {
+    "date": "2025-09-03",
+    "salesperson": "Charlie",
+    "revenue": 997
+  },
+  {
+    "date": "2025-09-04",
+    "salesperson": "Alice",
+    "revenue": 1166
+  },
+  {
+    "date": "2025-09-04",
+    "salesperson": "Bob",
+    "revenue": 1330
+  },
+  {
+    "date": "2025-09-04",
+    "salesperson": "Charlie",
+    "revenue": 1264
+  },
+  {
+    "date": "2025-09-05",
+    "salesperson": "Alice",
+    "revenue": 1269
+  },
+  {
+    "date": "2025-09-05",
+    "salesperson": "Bob",
+    "revenue": 1089
+  },
+  {
+    "date": "2025-09-05",
+    "salesperson": "Charlie",
+    "revenue": 998
+  },
+  {
+    "date": "2025-09-06",
+    "salesperson": "Alice",
+    "revenue": 1184
+  },
+  {
+    "date": "2025-09-06",
+    "salesperson": "Bob",
+    "revenue": 1407
+  },
+  {
+    "date": "2025-09-06",
+    "salesperson": "Charlie",
+    "revenue": 1053
+  },
+  {
+    "date": "2025-09-07",
+    "salesperson": "Alice",
+    "revenue": 1447
+  },
+  {
+    "date": "2025-09-07",
+    "salesperson": "Bob",
+    "revenue": 1061
+  },
+  {
+    "date": "2025-09-07",
+    "salesperson": "Charlie",
+    "revenue": 1278
+  },
+  {
+    "date": "2025-09-08",
+    "salesperson": "Alice",
+    "revenue": 1243
+  },
+  {
+    "date": "2025-09-08",
+    "salesperson": "Bob",
+    "revenue": 1095
+  },
+  {
+    "date": "2025-09-08",
+    "salesperson": "Charlie",
+    "revenue": 1123
+  },
+  {
+    "date": "2025-09-09",
+    "salesperson": "Alice",
+    "revenue": 1299
+  },
+  {
+    "date": "2025-09-09",
+    "salesperson": "Bob",
+    "revenue": 1293
+  },
+  {
+    "date": "2025-09-09",
+    "salesperson": "Charlie",
+    "revenue": 1112
+  },
+  {
+    "date": "2025-09-10",
+    "salesperson": "Alice",
+    "revenue": 1150
+  },
+  {
+    "date": "2025-09-10",
+    "salesperson": "Bob",
+    "revenue": 1385
+  },
+  {
+    "date": "2025-09-10",
+    "salesperson": "Charlie",
+    "revenue": 1081
+  },
+  {
+    "date": "2025-09-11",
+    "salesperson": "Alice",
+    "revenue": 1323
+  },
+  {
+    "date": "2025-09-11",
+    "salesperson": "Bob",
+    "revenue": 1464
+  },
+  {
+    "date": "2025-09-11",
+    "salesperson": "Charlie",
+    "revenue": 1280
+  },
+  {
+    "date": "2025-09-12",
+    "salesperson": "Alice",
+    "revenue": 1254
+  },
+  {
+    "date": "2025-09-12",
+    "salesperson": "Bob",
+    "revenue": 1492
+  },
+  {
+    "date": "2025-09-12",
+    "salesperson": "Charlie",
+    "revenue": 1079
+  },
+  {
+    "date": "2025-09-13",
+    "salesperson": "Alice",
+    "revenue": 1335
+  },
+  {
+    "date": "2025-09-13",
+    "salesperson": "Bob",
+    "revenue": 1381
+  },
+  {
+    "date": "2025-09-13",
+    "salesperson": "Charlie",
+    "revenue": 1188
+  },
+  {
+    "date": "2025-09-14",
+    "salesperson": "Alice",
+    "revenue": 1510
+  },
+  {
+    "date": "2025-09-14",
+    "salesperson": "Bob",
+    "revenue": 1209
+  },
+  {
+    "date": "2025-09-14",
+    "salesperson": "Charlie",
+    "revenue": 1076
+  },
+  {
+    "date": "2025-09-15",
+    "salesperson": "Alice",
+    "revenue": 1471
+  },
+  {
+    "date": "2025-09-15",
+    "salesperson": "Bob",
+    "revenue": 1390
+  },
+  {
+    "date": "2025-09-15",
+    "salesperson": "Charlie",
+    "revenue": 1239
+  },
+  {
+    "date": "2025-09-16",
+    "salesperson": "Alice",
+    "revenue": 1526
+  },
+  {
+    "date": "2025-09-16",
+    "salesperson": "Bob",
+    "revenue": 1268
+  },
+  {
+    "date": "2025-09-16",
+    "salesperson": "Charlie",
+    "revenue": 1168
+  },
+  {
+    "date": "2025-09-17",
+    "salesperson": "Alice",
+    "revenue": 1579
+  },
+  {
+    "date": "2025-09-17",
+    "salesperson": "Bob",
+    "revenue": 1190
+  },
+  {
+    "date": "2025-09-17",
+    "salesperson": "Charlie",
+    "revenue": 1271
+  },
+  {
+    "date": "2025-09-18",
+    "salesperson": "Alice",
+    "revenue": 1279
+  },
+  {
+    "date": "2025-09-18",
+    "salesperson": "Bob",
+    "revenue": 1282
+  },
+  {
+    "date": "2025-09-18",
+    "salesperson": "Charlie",
+    "revenue": 1500
+  },
+  {
+    "date": "2025-09-19",
+    "salesperson": "Alice",
+    "revenue": 1367
+  },
+  {
+    "date": "2025-09-19",
+    "salesperson": "Bob",
+    "revenue": 1514
+  },
+  {
+    "date": "2025-09-19",
+    "salesperson": "Charlie",
+    "revenue": 1303
+  },
+  {
+    "date": "2025-09-20",
+    "salesperson": "Alice",
+    "revenue": 1297
+  },
+  {
+    "date": "2025-09-20",
+    "salesperson": "Bob",
+    "revenue": 1546
+  },
+  {
+    "date": "2025-09-20",
+    "salesperson": "Charlie",
+    "revenue": 1288
+  },
+  {
+    "date": "2025-09-21",
+    "salesperson": "Alice",
+    "revenue": 1281
+  },
+  {
+    "date": "2025-09-21",
+    "salesperson": "Bob",
+    "revenue": 1190
+  },
+  {
+    "date": "2025-09-21",
+    "salesperson": "Charlie",
+    "revenue": 1444
+  },
+  {
+    "date": "2025-09-22",
+    "salesperson": "Alice",
+    "revenue": 1372
+  },
+  {
+    "date": "2025-09-22",
+    "salesperson": "Bob",
+    "revenue": 1314
+  },
+  {
+    "date": "2025-09-22",
+    "salesperson": "Charlie",
+    "revenue": 1476
+  },
+  {
+    "date": "2025-09-23",
+    "salesperson": "Alice",
+    "revenue": 1550
+  },
+  {
+    "date": "2025-09-23",
+    "salesperson": "Bob",
+    "revenue": 1422
+  },
+  {
+    "date": "2025-09-23",
+    "salesperson": "Charlie",
+    "revenue": 1176
+  },
+  {
+    "date": "2025-09-24",
+    "salesperson": "Alice",
+    "revenue": 1665
+  },
+  {
+    "date": "2025-09-24",
+    "salesperson": "Bob",
+    "revenue": 1559
+  },
+  {
+    "date": "2025-09-24",
+    "salesperson": "Charlie",
+    "revenue": 1533
+  },
+  {
+    "date": "2025-09-25",
+    "salesperson": "Alice",
+    "revenue": 1312
+  },
+  {
+    "date": "2025-09-25",
+    "salesperson": "Bob",
+    "revenue": 1362
+  },
+  {
+    "date": "2025-09-25",
+    "salesperson": "Charlie",
+    "revenue": 1539
+  },
+  {
+    "date": "2025-09-26",
+    "salesperson": "Alice",
+    "revenue": 1539
+  },
+  {
+    "date": "2025-09-26",
+    "salesperson": "Bob",
+    "revenue": 1527
+  },
+  {
+    "date": "2025-09-26",
+    "salesperson": "Charlie",
+    "revenue": 1499
+  },
+  {
+    "date": "2025-09-27",
+    "salesperson": "Alice",
+    "revenue": 1466
+  },
+  {
+    "date": "2025-09-27",
+    "salesperson": "Bob",
+    "revenue": 1409
+  },
+  {
+    "date": "2025-09-27",
+    "salesperson": "Charlie",
+    "revenue": 1439
+  },
+  {
+    "date": "2025-09-28",
+    "salesperson": "Alice",
+    "revenue": 1590
+  },
+  {
+    "date": "2025-09-28",
+    "salesperson": "Bob",
+    "revenue": 1584
+  },
+  {
+    "date": "2025-09-28",
+    "salesperson": "Charlie",
+    "revenue": 1252
+  },
+  {
+    "date": "2025-09-29",
+    "salesperson": "Alice",
+    "revenue": 1667
+  },
+  {
+    "date": "2025-09-29",
+    "salesperson": "Bob",
+    "revenue": 1483
+  },
+  {
+    "date": "2025-09-29",
+    "salesperson": "Charlie",
+    "revenue": 1381
+  },
+  {
+    "date": "2025-09-30",
+    "salesperson": "Alice",
+    "revenue": 1697
+  },
+  {
+    "date": "2025-09-30",
+    "salesperson": "Bob",
+    "revenue": 1666
+  },
+  {
+    "date": "2025-09-30",
+    "salesperson": "Charlie",
+    "revenue": 1231
+  },
+  {
+    "date": "2025-10-01",
+    "salesperson": "Alice",
+    "revenue": 1390
+  },
+  {
+    "date": "2025-10-01",
+    "salesperson": "Bob",
+    "revenue": 1387
+  },
+  {
+    "date": "2025-10-01",
+    "salesperson": "Charlie",
+    "revenue": 1300
+  },
+  {
+    "date": "2025-10-02",
+    "salesperson": "Alice",
+    "revenue": 1504
+  },
+  {
+    "date": "2025-10-02",
+    "salesperson": "Bob",
+    "revenue": 1443
+  },
+  {
+    "date": "2025-10-02",
+    "salesperson": "Charlie",
+    "revenue": 1602
+  },
+  {
+    "date": "2025-10-03",
+    "salesperson": "Alice",
+    "revenue": 1563
+  },
+  {
+    "date": "2025-10-03",
+    "salesperson": "Bob",
+    "revenue": 1631
+  },
+  {
+    "date": "2025-10-03",
+    "salesperson": "Charlie",
+    "revenue": 1301
+  },
+  {
+    "date": "2025-10-04",
+    "salesperson": "Alice",
+    "revenue": 1429
+  },
+  {
+    "date": "2025-10-04",
+    "salesperson": "Bob",
+    "revenue": 1451
+  },
+  {
+    "date": "2025-10-04",
+    "salesperson": "Charlie",
+    "revenue": 1338
+  },
+  {
+    "date": "2025-10-05",
+    "salesperson": "Alice",
+    "revenue": 1710
+  },
+  {
+    "date": "2025-10-05",
+    "salesperson": "Bob",
+    "revenue": 1507
+  },
+  {
+    "date": "2025-10-05",
+    "salesperson": "Charlie",
+    "revenue": 1338
+  },
+  {
+    "date": "2025-10-06",
+    "salesperson": "Alice",
+    "revenue": 1411
+  },
+  {
+    "date": "2025-10-06",
+    "salesperson": "Bob",
+    "revenue": 1360
+  },
+  {
+    "date": "2025-10-06",
+    "salesperson": "Charlie",
+    "revenue": 1395
+  }
+]

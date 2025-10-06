@@ -1,0 +1,902 @@
+[
+  {
+    "date": "2025-08-08",
+    "user": "User1",
+    "engagement": 15
+  },
+  {
+    "date": "2025-08-08",
+    "user": "User2",
+    "engagement": 17
+  },
+  {
+    "date": "2025-08-08",
+    "user": "User3",
+    "engagement": 19
+  },
+  {
+    "date": "2025-08-09",
+    "user": "User1",
+    "engagement": 23
+  },
+  {
+    "date": "2025-08-09",
+    "user": "User2",
+    "engagement": 19
+  },
+  {
+    "date": "2025-08-09",
+    "user": "User3",
+    "engagement": 21
+  },
+  {
+    "date": "2025-08-10",
+    "user": "User1",
+    "engagement": 21
+  },
+  {
+    "date": "2025-08-10",
+    "user": "User2",
+    "engagement": 17
+  },
+  {
+    "date": "2025-08-10",
+    "user": "User3",
+    "engagement": 14
+  },
+  {
+    "date": "2025-08-11",
+    "user": "User1",
+    "engagement": 27
+  },
+  {
+    "date": "2025-08-11",
+    "user": "User2",
+    "engagement": 18
+  },
+  {
+    "date": "2025-08-11",
+    "user": "User3",
+    "engagement": 18
+  },
+  {
+    "date": "2025-08-12",
+    "user": "User1",
+    "engagement": 29
+  },
+  {
+    "date": "2025-08-12",
+    "user": "User2",
+    "engagement": 22
+  },
+  {
+    "date": "2025-08-12",
+    "user": "User3",
+    "engagement": 22
+  },
+  {
+    "date": "2025-08-13",
+    "user": "User1",
+    "engagement": 26
+  },
+  {
+    "date": "2025-08-13",
+    "user": "User2",
+    "engagement": 23
+  },
+  {
+    "date": "2025-08-13",
+    "user": "User3",
+    "engagement": 25
+  },
+  {
+    "date": "2025-08-14",
+    "user": "User1",
+    "engagement": 28
+  },
+  {
+    "date": "2025-08-14",
+    "user": "User2",
+    "engagement": 26
+  },
+  {
+    "date": "2025-08-14",
+    "user": "User3",
+    "engagement": 25
+  },
+  {
+    "date": "2025-08-15",
+    "user": "User1",
+    "engagement": 22
+  },
+  {
+    "date": "2025-08-15",
+    "user": "User2",
+    "engagement": 21
+  },
+  {
+    "date": "2025-08-15",
+    "user": "User3",
+    "engagement": 24
+  },
+  {
+    "date": "2025-08-16",
+    "user": "User1",
+    "engagement": 23
+  },
+  {
+    "date": "2025-08-16",
+    "user": "User2",
+    "engagement": 30
+  },
+  {
+    "date": "2025-08-16",
+    "user": "User3",
+    "engagement": 26
+  },
+  {
+    "date": "2025-08-17",
+    "user": "User1",
+    "engagement": 29
+  },
+  {
+    "date": "2025-08-17",
+    "user": "User2",
+    "engagement": 23
+  },
+  {
+    "date": "2025-08-17",
+    "user": "User3",
+    "engagement": 23
+  },
+  {
+    "date": "2025-08-18",
+    "user": "User1",
+    "engagement": 17
+  },
+  {
+    "date": "2025-08-18",
+    "user": "User2",
+    "engagement": 21
+  },
+  {
+    "date": "2025-08-18",
+    "user": "User3",
+    "engagement": 18
+  },
+  {
+    "date": "2025-08-19",
+    "user": "User1",
+    "engagement": 24
+  },
+  {
+    "date": "2025-08-19",
+    "user": "User2",
+    "engagement": 21
+  },
+  {
+    "date": "2025-08-19",
+    "user": "User3",
+    "engagement": 13
+  },
+  {
+    "date": "2025-08-20",
+    "user": "User1",
+    "engagement": 18
+  },
+  {
+    "date": "2025-08-20",
+    "user": "User2",
+    "engagement": 23
+  },
+  {
+    "date": "2025-08-20",
+    "user": "User3",
+    "engagement": 18
+  },
+  {
+    "date": "2025-08-21",
+    "user": "User1",
+    "engagement": 26
+  },
+  {
+    "date": "2025-08-21",
+    "user": "User2",
+    "engagement": 25
+  },
+  {
+    "date": "2025-08-21",
+    "user": "User3",
+    "engagement": 18
+  },
+  {
+    "date": "2025-08-22",
+    "user": "User1",
+    "engagement": 25
+  },
+  {
+    "date": "2025-08-22",
+    "user": "User2",
+    "engagement": 22
+  },
+  {
+    "date": "2025-08-22",
+    "user": "User3",
+    "engagement": 24
+  },
+  {
+    "date": "2025-08-23",
+    "user": "User1",
+    "engagement": 23
+  },
+  {
+    "date": "2025-08-23",
+    "user": "User2",
+    "engagement": 20
+  },
+  {
+    "date": "2025-08-23",
+    "user": "User3",
+    "engagement": 16
+  },
+  {
+    "date": "2025-08-24",
+    "user": "User1",
+    "engagement": 28
+  },
+  {
+    "date": "2025-08-24",
+    "user": "User2",
+    "engagement": 20
+  },
+  {
+    "date": "2025-08-24",
+    "user": "User3",
+    "engagement": 18
+  },
+  {
+    "date": "2025-08-25",
+    "user": "User1",
+    "engagement": 24
+  },
+  {
+    "date": "2025-08-25",
+    "user": "User2",
+    "engagement": 20
+  },
+  {
+    "date": "2025-08-25",
+    "user": "User3",
+    "engagement": 19
+  },
+  {
+    "date": "2025-08-26",
+    "user": "User1",
+    "engagement": 29
+  },
+  {
+    "date": "2025-08-26",
+    "user": "User2",
+    "engagement": 29
+  },
+  {
+    "date": "2025-08-26",
+    "user": "User3",
+    "engagement": 23
+  },
+  {
+    "date": "2025-08-27",
+    "user": "User1",
+    "engagement": 34
+  },
+  {
+    "date": "2025-08-27",
+    "user": "User2",
+    "engagement": 31
+  },
+  {
+    "date": "2025-08-27",
+    "user": "User3",
+    "engagement": 26
+  },
+  {
+    "date": "2025-08-28",
+    "user": "User1",
+    "engagement": 22
+  },
+  {
+    "date": "2025-08-28",
+    "user": "User2",
+    "engagement": 23
+  },
+  {
+    "date": "2025-08-28",
+    "user": "User3",
+    "engagement": 21
+  },
+  {
+    "date": "2025-08-29",
+    "user": "User1",
+    "engagement": 21
+  },
+  {
+    "date": "2025-08-29",
+    "user": "User2",
+    "engagement": 23
+  },
+  {
+    "date": "2025-08-29",
+    "user": "User3",
+    "engagement": 13
+  },
+  {
+    "date": "2025-08-30",
+    "user": "User1",
+    "engagement": 22
+  },
+  {
+    "date": "2025-08-30",
+    "user": "User2",
+    "engagement": 18
+  },
+  {
+    "date": "2025-08-30",
+    "user": "User3",
+    "engagement": 16
+  },
+  {
+    "date": "2025-08-31",
+    "user": "User1",
+    "engagement": 19
+  },
+  {
+    "date": "2025-08-31",
+    "user": "User2",
+    "engagement": 19
+  },
+  {
+    "date": "2025-08-31",
+    "user": "User3",
+    "engagement": 19
+  },
+  {
+    "date": "2025-09-01",
+    "user": "User1",
+    "engagement": 19
+  },
+  {
+    "date": "2025-09-01",
+    "user": "User2",
+    "engagement": 18
+  },
+  {
+    "date": "2025-09-01",
+    "user": "User3",
+    "engagement": 17
+  },
+  {
+    "date": "2025-09-02",
+    "user": "User1",
+    "engagement": 29
+  },
+  {
+    "date": "2025-09-02",
+    "user": "User2",
+    "engagement": 28
+  },
+  {
+    "date": "2025-09-02",
+    "user": "User3",
+    "engagement": 24
+  },
+  {
+    "date": "2025-09-03",
+    "user": "User1",
+    "engagement": 21
+  },
+  {
+    "date": "2025-09-03",
+    "user": "User2",
+    "engagement": 20
+  },
+  {
+    "date": "2025-09-03",
+    "user": "User3",
+    "engagement": 27
+  },
+  {
+    "date": "2025-09-04",
+    "user": "User1",
+    "engagement": 23
+  },
+  {
+    "date": "2025-09-04",
+    "user": "User2",
+    "engagement": 26
+  },
+  {
+    "date": "2025-09-04",
+    "user": "User3",
+    "engagement": 19
+  },
+  {
+    "date": "2025-09-05",
+    "user": "User1",
+    "engagement": 32
+  },
+  {
+    "date": "2025-09-05",
+    "user": "User2",
+    "engagement": 21
+  },
+  {
+    "date": "2025-09-05",
+    "user": "User3",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-06",
+    "user": "User1",
+    "engagement": 31
+  },
+  {
+    "date": "2025-09-06",
+    "user": "User2",
+    "engagement": 25
+  },
+  {
+    "date": "2025-09-06",
+    "user": "User3",
+    "engagement": 20
+  },
+  {
+    "date": "2025-09-07",
+    "user": "User1",
+    "engagement": 21
+  },
+  {
+    "date": "2025-09-07",
+    "user": "User2",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-07",
+    "user": "User3",
+    "engagement": 12
+  },
+  {
+    "date": "2025-09-08",
+    "user": "User1",
+    "engagement": 17
+  },
+  {
+    "date": "2025-09-08",
+    "user": "User2",
+    "engagement": 24
+  },
+  {
+    "date": "2025-09-08",
+    "user": "User3",
+    "engagement": 16
+  },
+  {
+    "date": "2025-09-09",
+    "user": "User1",
+    "engagement": 17
+  },
+  {
+    "date": "2025-09-09",
+    "user": "User2",
+    "engagement": 23
+  },
+  {
+    "date": "2025-09-09",
+    "user": "User3",
+    "engagement": 20
+  },
+  {
+    "date": "2025-09-10",
+    "user": "User1",
+    "engagement": 24
+  },
+  {
+    "date": "2025-09-10",
+    "user": "User2",
+    "engagement": 19
+  },
+  {
+    "date": "2025-09-10",
+    "user": "User3",
+    "engagement": 18
+  },
+  {
+    "date": "2025-09-11",
+    "user": "User1",
+    "engagement": 28
+  },
+  {
+    "date": "2025-09-11",
+    "user": "User2",
+    "engagement": 19
+  },
+  {
+    "date": "2025-09-11",
+    "user": "User3",
+    "engagement": 25
+  },
+  {
+    "date": "2025-09-12",
+    "user": "User1",
+    "engagement": 30
+  },
+  {
+    "date": "2025-09-12",
+    "user": "User2",
+    "engagement": 20
+  },
+  {
+    "date": "2025-09-12",
+    "user": "User3",
+    "engagement": 18
+  },
+  {
+    "date": "2025-09-13",
+    "user": "User1",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-13",
+    "user": "User2",
+    "engagement": 28
+  },
+  {
+    "date": "2025-09-13",
+    "user": "User3",
+    "engagement": 24
+  },
+  {
+    "date": "2025-09-14",
+    "user": "User1",
+    "engagement": 29
+  },
+  {
+    "date": "2025-09-14",
+    "user": "User2",
+    "engagement": 30
+  },
+  {
+    "date": "2025-09-14",
+    "user": "User3",
+    "engagement": 24
+  },
+  {
+    "date": "2025-09-15",
+    "user": "User1",
+    "engagement": 33
+  },
+  {
+    "date": "2025-09-15",
+    "user": "User2",
+    "engagement": 26
+  },
+  {
+    "date": "2025-09-15",
+    "user": "User3",
+    "engagement": 25
+  },
+  {
+    "date": "2025-09-16",
+    "user": "User1",
+    "engagement": 32
+  },
+  {
+    "date": "2025-09-16",
+    "user": "User2",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-16",
+    "user": "User3",
+    "engagement": 27
+  },
+  {
+    "date": "2025-09-17",
+    "user": "User1",
+    "engagement": 15
+  },
+  {
+    "date": "2025-09-17",
+    "user": "User2",
+    "engagement": 21
+  },
+  {
+    "date": "2025-09-17",
+    "user": "User3",
+    "engagement": 15
+  },
+  {
+    "date": "2025-09-18",
+    "user": "User1",
+    "engagement": 23
+  },
+  {
+    "date": "2025-09-18",
+    "user": "User2",
+    "engagement": 19
+  },
+  {
+    "date": "2025-09-18",
+    "user": "User3",
+    "engagement": 21
+  },
+  {
+    "date": "2025-09-19",
+    "user": "User1",
+    "engagement": 26
+  },
+  {
+    "date": "2025-09-19",
+    "user": "User2",
+    "engagement": 25
+  },
+  {
+    "date": "2025-09-19",
+    "user": "User3",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-20",
+    "user": "User1",
+    "engagement": 24
+  },
+  {
+    "date": "2025-09-20",
+    "user": "User2",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-20",
+    "user": "User3",
+    "engagement": 24
+  },
+  {
+    "date": "2025-09-21",
+    "user": "User1",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-21",
+    "user": "User2",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-21",
+    "user": "User3",
+    "engagement": 17
+  },
+  {
+    "date": "2025-09-22",
+    "user": "User1",
+    "engagement": 27
+  },
+  {
+    "date": "2025-09-22",
+    "user": "User2",
+    "engagement": 24
+  },
+  {
+    "date": "2025-09-22",
+    "user": "User3",
+    "engagement": 26
+  },
+  {
+    "date": "2025-09-23",
+    "user": "User1",
+    "engagement": 27
+  },
+  {
+    "date": "2025-09-23",
+    "user": "User2",
+    "engagement": 28
+  },
+  {
+    "date": "2025-09-23",
+    "user": "User3",
+    "engagement": 23
+  },
+  {
+    "date": "2025-09-24",
+    "user": "User1",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-24",
+    "user": "User2",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-24",
+    "user": "User3",
+    "engagement": 25
+  },
+  {
+    "date": "2025-09-25",
+    "user": "User1",
+    "engagement": 25
+  },
+  {
+    "date": "2025-09-25",
+    "user": "User2",
+    "engagement": 28
+  },
+  {
+    "date": "2025-09-25",
+    "user": "User3",
+    "engagement": 27
+  },
+  {
+    "date": "2025-09-26",
+    "user": "User1",
+    "engagement": 24
+  },
+  {
+    "date": "2025-09-26",
+    "user": "User2",
+    "engagement": 22
+  },
+  {
+    "date": "2025-09-26",
+    "user": "User3",
+    "engagement": 27
+  },
+  {
+    "date": "2025-09-27",
+    "user": "User1",
+    "engagement": 15
+  },
+  {
+    "date": "2025-09-27",
+    "user": "User2",
+    "engagement": 19
+  },
+  {
+    "date": "2025-09-27",
+    "user": "User3",
+    "engagement": 14
+  },
+  {
+    "date": "2025-09-28",
+    "user": "User1",
+    "engagement": 18
+  },
+  {
+    "date": "2025-09-28",
+    "user": "User2",
+    "engagement": 14
+  },
+  {
+    "date": "2025-09-28",
+    "user": "User3",
+    "engagement": 18
+  },
+  {
+    "date": "2025-09-29",
+    "user": "User1",
+    "engagement": 17
+  },
+  {
+    "date": "2025-09-29",
+    "user": "User2",
+    "engagement": 18
+  },
+  {
+    "date": "2025-09-29",
+    "user": "User3",
+    "engagement": 13
+  },
+  {
+    "date": "2025-09-30",
+    "user": "User1",
+    "engagement": 28
+  },
+  {
+    "date": "2025-09-30",
+    "user": "User2",
+    "engagement": 24
+  },
+  {
+    "date": "2025-09-30",
+    "user": "User3",
+    "engagement": 23
+  },
+  {
+    "date": "2025-10-01",
+    "user": "User1",
+    "engagement": 28
+  },
+  {
+    "date": "2025-10-01",
+    "user": "User2",
+    "engagement": 27
+  },
+  {
+    "date": "2025-10-01",
+    "user": "User3",
+    "engagement": 18
+  },
+  {
+    "date": "2025-10-02",
+    "user": "User1",
+    "engagement": 22
+  },
+  {
+    "date": "2025-10-02",
+    "user": "User2",
+    "engagement": 19
+  },
+  {
+    "date": "2025-10-02",
+    "user": "User3",
+    "engagement": 23
+  },
+  {
+    "date": "2025-10-03",
+    "user": "User1",
+    "engagement": 21
+  },
+  {
+    "date": "2025-10-03",
+    "user": "User2",
+    "engagement": 23
+  },
+  {
+    "date": "2025-10-03",
+    "user": "User3",
+    "engagement": 24
+  },
+  {
+    "date": "2025-10-04",
+    "user": "User1",
+    "engagement": 32
+  },
+  {
+    "date": "2025-10-04",
+    "user": "User2",
+    "engagement": 28
+  },
+  {
+    "date": "2025-10-04",
+    "user": "User3",
+    "engagement": 28
+  },
+  {
+    "date": "2025-10-05",
+    "user": "User1",
+    "engagement": 25
+  },
+  {
+    "date": "2025-10-05",
+    "user": "User2",
+    "engagement": 25
+  },
+  {
+    "date": "2025-10-05",
+    "user": "User3",
+    "engagement": 19
+  },
+  {
+    "date": "2025-10-06",
+    "user": "User1",
+    "engagement": 34
+  },
+  {
+    "date": "2025-10-06",
+    "user": "User2",
+    "engagement": 26
+  },
+  {
+    "date": "2025-10-06",
+    "user": "User3",
+    "engagement": 28
+  }
+]

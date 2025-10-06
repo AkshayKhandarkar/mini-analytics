@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f7f7fb;
+  color: #111;
+}
+main {
+  min-height: calc(100vh - 52px);
+}
+h2 {
+  margin: 0 0 12px 0;
+}
+select,
+input {
+  padding: 6px 8px;
+  margin-left: 6px;
+}
