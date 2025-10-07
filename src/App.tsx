@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div>
       <TopBar />
-      <div style={{ display: "flex" }}>
+      <div className='page-container'>
         <Sidebar />
         <main style={{ flex: 1, padding: 16 }}>
           <Routes>
